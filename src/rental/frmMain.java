@@ -399,7 +399,7 @@ public class frmMain extends javax.swing.JFrame {
             }
             
             int lama = klr - msk;
-            harga = 3000;
+            harga = 200000;
             
             if(lama > 0){
                 harga = lama * harga;
